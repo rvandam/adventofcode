@@ -1,4 +1,4 @@
-expenses = []
+#!/usr/bin/env python3
 
 with open('input.txt', 'r') as file:
     # read lines, parse ints and sort (so we can short circuit lookups later)
